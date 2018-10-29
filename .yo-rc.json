@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ncs.blockchain.gateway",
+      "nativeLanguage": "en",
+      "microservicePath": "D:\\Codes\\Andromeda\\Blockchain\\cargo"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "gateway",
+    "baseName": "Gateway",
+    "packageName": "com.ncs.blockchain.gateway",
+    "packageFolder": "com/ncs/blockchain/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGI2ODJiODM5ZjY0MTQyY2VkNWQzYWMwNzg3MTEwMGFlZTFhZTBlN2Q1MWNlNWMyM2I5M2EyYjQ1NGEwOTcwZGQyMTRiOTk0MjlmZDVhMTgyNmIxYWQ3NGI4NjA3NjYzNzk1NGZiODIxZGJhNDZhNTM2OTQ1NjBlNGU5Njg4N2Q=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
