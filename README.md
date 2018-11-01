@@ -7,7 +7,7 @@ This is a "gateway" application intended to be part of a microservice architectu
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
 
-1. [Node.js][]: We use Node to run a development web server and build the project.
+1. [Node.js](https://nodejs.org): We use Node to run a development web server and build the project.
    Depending on your system, you can install Node either from source or as a pre-packaged bundle.
 
 After installing Node, you should be able to run the following command to install development tools.
@@ -17,7 +17,7 @@ You will only need to run this command when dependencies change in [package.json
 
 ## Run
 
-This application is configured for Service Discovery and Configuration with the JHipster-Registry. On launch, it will refuse to start if it is not able to connect to the JHipster-Registry at [http://localhost:8761](http://localhost:8761). For more information, read our documentation on [Service Discovery and Configuration with the JHipster-Registry][].
+This application is configured for Service Discovery and Configuration with the JHipster-Registry. On launch, it will refuse to start if it is not able to connect to the JHipster-Registry at [http://localhost:8761](http://localhost:8761). For more information, read our documentation on [Service Discovery and Configuration with the JHipster-Registry](https://www.jhipster.tech/jhipster-registry/).
 	
 After starting up the JHipster-Registry, run the following to start the Gateway
 
